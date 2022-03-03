@@ -1,0 +1,24 @@
+#home {
+    margin-top: 100px;
+}
+
+.pb {
+    width: 100%;
+}
+
+.name {
+    text-align: right;
+}
+
+.homecontent {
+    margin-left: 21%;
+}
+
+.homehr {
+    color: greenyellow;
+    height: 3px;
+    opacity: 1;
+    width: 50%;
+    text-align: right;
+    margin-left: 50%;
+}
